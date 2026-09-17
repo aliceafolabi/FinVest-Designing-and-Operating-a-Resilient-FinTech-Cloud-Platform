@@ -127,9 +127,9 @@ security, reliability, or operational requirement.
 | Phase | Area | Status |
 |---|---|---|
 | 01 | Business Case & Problem Definition | ✅ Completed |
-| 02 | Requirements & Success Criteria | 🔄 In Progress |
-| 03 | Architecture Design | ⏳ Upcoming |
-| 04 | Threat Model & Risk Assessment | ⏳ Upcoming |
+| 02 | Requirements & Success Criteria |  ✅ Completed  |
+| 03 | Architecture Design | ✅ Completed  |
+| 04 | Threat Model & Risk Assessment | ✅ Completed  |
 | 05 | GitHub Repository & Engineering Workflow | ⏳ Upcoming |
 | ... | ... | ... |
 
